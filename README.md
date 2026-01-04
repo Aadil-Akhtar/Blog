@@ -30,14 +30,6 @@ A clean, fast, and simple blog template.
 
 ## Hosting options
 
-You can host this blog for free on several platforms:
+This blog is hosted on:
 
-### Option 1: GitHub Pages (Recommended)
-1. Create a repository on GitHub.
-2. Push this code to the repository.
-3. Go to Repository Settings > Pages > Select 'main' branch > Save.
 
-### Option 2: Netlify Drop
-1. Go to [Netlify Drop](https://app.netlify.com/drop).
-2. Drag and drop the `Blog` folder onto the page.
-3. It will be online instantly!
